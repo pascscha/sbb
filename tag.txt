@@ -1,0 +1,9 @@
+
+{BG_RED}    ___    ___   ____                                {BG_DEFAULT}
+{BG_RED}   /   /  |   |  \   \         ____  ____  ____      {BG_DEFAULT}
+{BG_RED}  /   /___|   |___\   \       / ___||  _ \|  _ \     {BG_DEFAULT}
+{BG_RED} /                     \     | (___ | |_)/| |_)/     {BG_DEFAULT}
+{BG_RED} \    ____     ___     /      \___ \|  _ \|  _ \     {BG_DEFAULT}
+{BG_RED}  \   \   |   |   /   /        ___) | |_) | |_) |    {BG_DEFAULT}
+{BG_RED}   \___\  |___|  /___/        |____/|____/|____/     {BG_DEFAULT}
+{BG_RED}                                                     {BG_DEFAULT}
